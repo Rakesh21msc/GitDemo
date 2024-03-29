@@ -8,6 +8,7 @@ class SpringbootK8sDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+	System.out.println("THis is testing jenkins");
 	}
 
 }
